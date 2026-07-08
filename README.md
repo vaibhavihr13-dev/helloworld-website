@@ -2,10 +2,6 @@
 <b>About</b><br>
 A simple HTML project created to practice basic web development and Git/GitHub workflow<br>
 This project contains a basic HTML page that displays a "Hello, World!" message in a web browser.<br>
-It is intended for learning:<br>
-- Git version control<br>
-- GitHub repositories
-<br>
 <b>Learning Goals</b><br>
 - Create a basic HTML page<br>
 - Understand Git commits<br>
