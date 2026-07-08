@@ -5,7 +5,6 @@ This project contains a basic HTML page that displays a "Hello, World!" message 
 It is intended for learning:<br>
 - Git version control<br>
 - GitHub repositories
-<br><b>Technologies Used:</b> HTML5
 <br>
 <b>Learning Goals</b><br>
 - Create a basic HTML page<br>
