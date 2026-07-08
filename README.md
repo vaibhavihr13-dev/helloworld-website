@@ -1,5 +1,4 @@
 # helloworld-website
-<br>
 <b>About</b>
 A simple HTML project created to practice basic web development and Git/GitHub workflow
 This project contains a basic HTML page that displays a "Hello, World!" message in a web browser.
